@@ -1,0 +1,14 @@
+layout_spectrum: 0.8157036
+typography_spectrum: 0.798871
+color:
+  saturation: 0.1725105
+  lightness: 0.0400751
+  brandStrength: 0.6478225
+  rhythmicContrast: 0.4142712
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: The Talent Tree
