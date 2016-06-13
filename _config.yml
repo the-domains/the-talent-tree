@@ -1,8 +1,8 @@
 layout_spectrum: 0.8157036
-typography_spectrum: 0.798871
+typography_spectrum: 0.6863799
 color:
   saturation: 0.1725105
-  lightness: 0.0400751
+  lightness: 0
   brandStrength: 0.5949821
   brandColors:
     - '#FFFFFF'
